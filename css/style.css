@@ -803,6 +803,15 @@
     transition: 0.5s;
 }
 
+/* .ff-success {
+    opacity: 0;
+} */
+.ff-form .ff-description p{
+    opacity: 0;
+}
+/* .btn.btn-primary{
+    opacity: 0;
+} */
 .testimonial .testimonial-carousel .owl-nav .owl-prev {
     position: absolute;
     top: 50%;
